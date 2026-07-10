@@ -1,6 +1,3 @@
-# MechanicalDesign-RobotDog
-
-
 ## ⚙️ Task1 - Mechanical Design of a simple Robot Dog
 
 
