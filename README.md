@@ -1,4 +1,4 @@
-## ⚙️ Task1 - Mechanical Design of a simple Robot Dog
+# ⚙️ Task1 - Mechanical Design of a simple Robot Dog
 
 
 ## Introduction
